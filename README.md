@@ -3,6 +3,8 @@
 ## Aim of the Project
 The aim of this project is to build a Spam Classification system. The project focuses on classifying messages as either spam or ham (non-spam) using various natural language processing (NLP) techniques and machine learning algorithms.
 
+
+
 ## Steps Involved
 
 ### Data Loading and Exploration:
@@ -40,6 +42,10 @@ Implementing a function to predict whether a given message is spam or ham.
 ### Introduction of Stacked LSTM Model:
 Implementation of a stacked LSTM model using TensorFlow and Keras.
 
+
+
+
+
 ## Tools/Technologies Required
 Python
 Pandas
@@ -51,8 +57,17 @@ Natural Language Toolkit (NLTK)
 TensorFlow
 Keras
 
+
+
+
+
 ## Conclusion
 The project successfully demonstrates the process of building a spam classification system. By combining exploratory data analysis, feature engineering, and machine learning techniques, the model achieved high F1-Score, especially with the Random Forest algorithm. The LSTM model introduces a deep learning approach, adding flexibility for further experimentation.
+
+
+
+
+
 
 ## Potential Improvements
 ### Hyperparameter Tuning:
